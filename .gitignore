@@ -1,0 +1,48 @@
+# Ignore build artifacts
+artifacts/
+build/
+cache/
+package-lock.json
+
+# Ignore dependencies
+node_modules/
+
+# Ignore development-specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore logs and backups
+*.log
+*.log.*
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binary files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore compiled executables
+*.exe
+*.out
+*.app
+
+# Ignore package files
+*.tar.gz
+*.tgz
+*.dmg
+*.zip
+*.rar
+*.gz
+*.car
+
+# Ignore specific Solidity files or directories
+.solcover.js
+.soliumrc.json

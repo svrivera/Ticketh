@@ -1,0 +1,18 @@
+{
+    "attributes" : [
+        {
+           "trait_type" : "seat",
+           "value" : "A21"
+        },
+        {
+           "trait_type" : "vip_access",
+           "value" : false
+        }
+     ],
+    "description" : "Get ready to rock! Join us for a high-energy night of classic and modern rock music featuring local and national bands at our state-of-the-art venue. Don't miss this epic event - come rock out with us!",
+    "external_url" : "https://example.com/?token_id=1",
+    "image" : "https://bafybeify6tvpfi2ecmbzj76ut3rkkpqg5bfdoyu5wtmaofpmqroftsdssm.ipfs.nftstorage.link/images/1.png",
+    "name" : "Rock Out",
+    "encrypted_owner" : "",
+    "id" : "1"
+ }
