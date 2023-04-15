@@ -2,13 +2,13 @@
     "attributes" : [
         {
             "trait_type" : "seat",
-            "value" : "A23"
+            "value" : "A25"
         },
         {
             "display_type": "date",
             "trait_type" : "when",
             "value" : 1702670400
-        },
+         },
         {
             "trait_type" : "location",
             "value" : "New York, NY"
@@ -21,11 +21,10 @@
             "trait_type" : "ticket_type",
             "value" : "General"
         }
-
     ],
     "description" : "Get ready to rock! Join us for a high-energy night of classic and modern rock music featuring local and national bands at our state-of-the-art venue. Don't miss this epic event - come rock out with us!",
     "external_url" : "https://example.com/?token_id=1",
-    "image" : "https://bafybeify6tvpfi2ecmbzj76ut3rkkpqg5bfdoyu5wtmaofpmqroftsdssm.ipfs.nftstorage.link/images/3.png",
+    "image" : "https://bafybeify6tvpfi2ecmbzj76ut3rkkpqg5bfdoyu5wtmaofpmqroftsdssm.ipfs.nftstorage.link/images/5.png",
     "name" : "Rock Out",
-    "id" : "3"
+    "id" : "5"
  }
